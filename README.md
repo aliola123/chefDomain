@@ -185,4 +185,3 @@ The admin dashboard provides a clean interface for managing products and orders.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-`
